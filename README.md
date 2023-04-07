@@ -19,7 +19,7 @@ Using Google Colab Notebook, we can convert it to .py extension and use the file
 
 Clone the Repository
 ```bash
-git clone https://github.com/VaishnaviGonelaa/Toxicity-Prediction.git
+git clone https://github.com/iamhemanthjag/Toxicity_Prediction.git
 ```
 Start Execution
 
