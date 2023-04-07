@@ -1,4 +1,4 @@
-## Toxicity_predicition:
+## Toxicity Predicition Challenge II:
 We have participated in the Toxicity Perdiction Challenge II on Kaggle as a part of our CSCI 555 Data Mining and Machine learning Project.I used machine learning algorithms to create a model which predicts whether the given chemical is toxic or not. 
 
 This is an exciting competition addressing a real-life challenge. use machine learning to create a model that predicts which chemicals are toxic.
