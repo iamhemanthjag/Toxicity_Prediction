@@ -24,7 +24,7 @@ git clone https://github.com/iamhemanthjag/Toxicity_Prediction.git
 Start Execution
 
 ``` bash
-python xgb-classifier.ipynb
+HJ.ipynb
 ```
 
 
